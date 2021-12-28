@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Layout Application</string>
     <string name="profile_name">Puttipong Saksaen</string>
-    <string name="profile1_name">AKA.SENJU7X</string>
+    <string name="profile1_name">ID : 623410008-8</string>
+    <string name="profile2_name">Advisor : Satit Kravenkit</string>
+    <string name="profile3_name">Email : Puttipong_sa@kkumail.com</string>
+    <string name="AD1">Facebook : Puttipong Saksaen</string>
+    <string name="AD2">Instargram : Puttipong_Senju</string>
+    <string name="AD3">Adress : KKU NKC</string>
+    <string name="AD4">Educational record : Bachelor of Science (Computer Science)</string>
 </resources>
